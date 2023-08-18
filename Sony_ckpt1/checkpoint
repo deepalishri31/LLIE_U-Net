@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/21i190003/DL_Project/Sony_ckpt1/model.ckpt"
+all_model_checkpoint_paths: "/home/21i190003/DL_Project/Sony_ckpt1/model.ckpt"
